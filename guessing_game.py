@@ -27,7 +27,6 @@ def main():
     finally:
         print("Thanks for playing!")
 
-
     print("\nDone.")
 
 
